@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jp.eiya.aya.AbsEchoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2014-08-21T07:42:45" hostname="DESK121012-4" time="0.059">
+  <properties/>
+  <testcase name="Can echo an Strgng value?" classname="jp.eiya.aya.AbsEchoTest" time="0.059"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
